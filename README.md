@@ -5,9 +5,14 @@ Una app de escritorio que resuelve todo tipos de operaciones con matrices y sist
 
 ## Documentación para MatrixMa 1.0.0
 
-Para utilizar la aplicación de escritorio es necesario instalar el siguiente componente: [Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.5-windows-x64-installer)
+### Instalación
+En la pestaña de releases, se encuentra el ejecutable, no hace falta ninguna dependencia para ejecutar el programa
 
-Luego, descargar la carpeta llamada ***MatrixMa*** y ejecutar el .exe
+O si desea el otro metodo:
+>Necesitas tener el .NET8 SDK para poder compilar el programa
+
+Clone el repositorio, y cree una build default:
+`dotnet publish`
 
 ## Información
 
